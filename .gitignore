@@ -4,11 +4,12 @@
 # Do not ignore directories
 !*/
 
-# Track only submission files according to requirements/capture
+# Track submission files according to requirements/capture
 !Pipeline_submission_BFGAI_SonnyAriady.ipynb
 !Streamlit_submission_BFGAI_SonnyAriady.ipynb
 !requirements.txt
 !video_demo_aplikasi_BFGAI.mp4
+!BFGAI_SonnyAriady.zip
 
 # Track gitignore and readme
 !.gitignore
